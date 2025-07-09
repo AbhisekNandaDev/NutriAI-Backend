@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "goal": "Weight Loss",
+      "desc": "Achieving a healthy reduction in body weight through sustainable lifestyle changes.",
+      "yoga_needed": "3-4 times a week, focusing on Surya Namaskar, Virabhadrasana, Trikonasana for calorie burning and improved metabolism. Include Kapalabhati and Bhastrika Pranayama for increased metabolism.  Consider a brisk walking regimen 5 days a week.",
+      "good_to_have_foods": "Whole grains (oats, quinoa, brown rice), lean proteins (chicken, fish, lentils, tofu), plenty of fruits and vegetables (especially leafy greens, berries, cruciferous vegetables), healthy fats (avocado, nuts, seeds, olive oil), and adequate water intake.",
+      "avoid_foods": "Processed foods, sugary drinks, excessive amounts of refined carbohydrates (white bread, pasta), fried foods, high-fat dairy products, and excessive consumption of red meat."
+    },
+    {
+      "id": 2,
+      "goal": "Stress Reduction",
+      "desc": "Lowering stress levels and promoting mental well-being.",
+      "yoga_needed": "Daily practice, emphasizing gentle asanas like Balasana, Sukhasana, and restorative poses. Include Pranayama (Nadi Shodhana, Brahmari) and meditation.  Practice mindfulness techniques daily.",
+      "good_to_have_foods": "Foods rich in magnesium (leafy greens, nuts, seeds), omega-3 fatty acids (fatty fish, flaxseeds), and vitamin B complex (whole grains, legumes).  Chamomile tea.",
+      "avoid_foods": "Caffeine, alcohol, sugary drinks, processed foods."
+    },
+    {
+      "id": 3,
+      "goal": "Improved Flexibility",
+      "desc": "Increasing the range of motion in joints and muscles.",
+      "yoga_needed": "Daily practice, focusing on asanas that stretch different parts of the body, such as Trikonasana, Paschimottanasana, and hip-opening poses. Hold poses for longer durations.",
+      "good_to_have_foods": "Foods rich in collagen (bone broth), vitamin C (citrus fruits), and antioxidants (berries).",
+      "avoid_foods": "Foods that promote inflammation (processed foods, sugary drinks)."
+    },
+    {
+      "id": 4,
+      "goal": "Enhanced Strength",
+      "desc": "Building muscle strength and endurance.",
+      "yoga_needed": "3-4 times a week, including strength-building asanas like Virabhadrasana series, Chaturanga, and arm balances. Combine with dynamic movements.",
+      "good_to_have_foods": "Protein-rich foods (lean meats, fish, eggs, dairy, legumes), complex carbohydrates (whole grains), and creatine (if appropriate).",
+      "avoid_foods": "Excessive sugary foods, processed snacks."
+    },
+    {
+      "id": 5,
+      "goal": "Better Digestion",
+      "desc": "Improving digestive function and reducing digestive issues.",
+      "yoga_needed": "Daily practice, including twists (Ardha Matsyendrasana), forward folds, and abdominal exercises like Nauli. Practice Vajrasana after meals.  Include deep breathing exercises.",
+      "good_to_have_foods": "High-fiber foods (whole grains, fruits, vegetables), probiotics (yogurt, kefir), and digestive aids (ginger, cumin, fennel).",
+      "avoid_foods": "Processed foods, fatty foods, spicy foods (if they trigger issues), and artificial sweeteners."
+    },
+    {
+      "id": 6,
+      "goal": "Increased Energy Levels",
+      "desc": "Boosting energy and reducing fatigue.",
+      "yoga_needed": "Daily practice, with a mix of energizing asanas (Surya Namaskar) and calming poses (Savasana). Pranayama techniques like Kapalabhati and Bhastrika.",
+      "good_to_have_foods": "Complex carbohydrates, iron-rich foods (leafy greens, lentils), and foods rich in B vitamins.",
+      "avoid_foods": "Sugary drinks, processed foods, excessive caffeine."
+    },
+    {
+      "id": 7,
+      "goal": "Improved Posture",
+      "desc": "Correcting postural imbalances and improving alignment.",
+      "yoga_needed": "Daily practice, focusing on asanas that strengthen the back and core, such as Tadasana, Bhujangasana, and Trikonasana.  Pay attention to alignment in daily activities.",
+      "good_to_have_foods": "Foods rich in calcium and vitamin D for bone health. Protein for muscle support.",
+      "avoid_foods": "Foods that contribute to inflammation."
+    },
+    {
+      "id": 8,
+      "goal": "Pain Management",
+      "desc": "Reducing chronic pain, such as back pain or arthritis pain.",
+      "yoga_needed": "Gentle and consistent practice, tailored to the specific pain condition. Focus on poses that stretch and strengthen the affected areas without exacerbating pain. Include restorative yoga and meditation. Consult a yoga therapist.",
+      "good_to_have_foods": "Anti-inflammatory foods (fatty fish, turmeric, ginger), and foods rich in antioxidants.",
+      "avoid_foods": "Foods that promote inflammation (processed foods, red meat, sugary drinks)."
+    },
+    {
+      "id": 9,
+      "goal": "Better Sleep",
+      "desc": "Improving sleep quality and reducing insomnia.",
+      "yoga_needed": "Evening practice, focusing on calming poses like Balasana, Supta Baddha Konasana, and Pranayama (Nadi Shodhana, Brahmari).",
+      "good_to_have_foods": "Foods containing tryptophan (turkey, milk), magnesium (leafy greens, nuts), and melatonin-rich foods (tart cherries).",
+      "avoid_foods": "Caffeine, alcohol, heavy meals before bed."
+    },
+    {
+      "id": 10,
+      "goal": "Increased Immunity",
+      "desc": "Strengthening the immune system to fight off illness.",
+      "yoga_needed": "Regular practice, including asanas that stimulate the lymphatic system, such as inversions (if appropriate) and twists. Pranayama (Kapalabhati, Bhastrika).",
+      "good_to_have_foods": "Foods rich in vitamin C (citrus fruits), vitamin D, zinc, and antioxidants. Probiotics.",
+      "avoid_foods": "Processed foods, sugary drinks."
+    },
+    {
+      "id": 11,
+      "goal": "Improved Balance",
+      "desc": "Enhancing stability and coordination.",
+      "yoga_needed": "Regular practice, focusing on balancing poses like Trikonasana, Natarajasana, and Vrikshasana. Practice on an even surface.",
+      "good_to_have_foods": "Foods rich in calcium and vitamin D for bone health, and foods that support nerve function.",
+      "avoid_foods": "Foods that may cause dizziness or imbalance."
+    },
+    {
+      "id": 12,
+      "goal": "Cardiovascular Health",
+      "desc": "Improving the health of the heart and blood vessels.",
+      "yoga_needed": "Dynamic yoga styles, such as Vinyasa, 3-4 times a week. Include Surya Namaskar and aerobic exercises.  Pranayama.",
+      "good_to_have_foods": "Heart-healthy fats (avocado, olive oil), omega-3 fatty acids, whole grains, and plenty of fruits and vegetables.",
+      "avoid_foods": "Saturated and trans fats, sodium, sugary foods."
+    },
+    {
+      "id": 13,
+      "goal": "Detoxification",
+      "desc": "Supporting the body's natural detoxification processes.",
+      "yoga_needed": "Regular practice, including twists, forward folds, and Kapalabhati Pranayama. Drink plenty of water.",
+      "good_to_have_foods": "Foods rich in antioxidants, fiber, and water.  Green tea.",
+      "avoid_foods": "Processed foods, alcohol, excessive caffeine."
+    },
+    {
+      "id": 14,
+      "goal": "Hormonal Balance",
+      "desc": "Regulating hormone levels.",
+      "yoga_needed": "Regular practice, with specific asanas depending on the hormonal imbalance. Pranayama and meditation for stress reduction.",
+      "good_to_have_foods": "Foods that support hormone production, such as healthy fats and protein.",
+      "avoid_foods": "Foods that disrupt hormone balance (processed foods, sugary foods)."
+    },
+    {
+      "id": 15,
+      "goal": "Menstrual Health",
+      "desc": "Relieving menstrual discomfort and regulating cycles.",
+      "yoga_needed": "Gentle yoga during menstruation, focusing on restorative poses and Pranayama. Avoid inversions during menstruation.",
+      "good_to_have_foods": "Iron-rich foods, calcium-rich foods, and foods that reduce inflammation.",
+      "avoid_foods": "Caffeine, alcohol, processed foods."
+    },
+    {
+      "id": 16,
+      "goal": "Pregnancy Support",
+      "desc": "Supporting a healthy pregnancy and preparing for childbirth.",
+      "yoga_needed": "Prenatal yoga, tailored to each trimester, focusing on gentle stretches, breathing exercises, and relaxation techniques. Consult a certified prenatal yoga instructor.",
+      "good_to_have_foods": "Nutrient-dense foods, including protein, healthy fats, and complex carbohydrates.  Folate.",
+      "avoid_foods": "Certain fish (high in mercury), raw or undercooked foods, alcohol, excessive caffeine."
+    },
+    {
+      "id": 17,
+      "goal": "Postpartum Recovery",
+      "desc": "Aiding in physical and emotional recovery after childbirth.",
+      "yoga_needed": "Postnatal yoga, focusing on gentle stretches to strengthen the pelvic floor and core, and relaxation techniques. Start gradually and consult a healthcare professional.",
+      "good_to_have_foods": "Nutritious foods to support healing and energy levels.  Iron-rich foods.",
+      "avoid_foods": "Processed foods, sugary drinks."
+    },
+    {
+      "id": 18,
+      "goal": "Improved Concentration",
+      "desc": "Enhancing focus and mental clarity.",
+      "yoga_needed": "Regular practice, including balancing poses, Pranayama (Nadi Shodhana, Brahmari), and meditation.",
+      "good_to_have_foods": "Foods that support brain health, such as omega-3 fatty acids, antioxidants, and B vitamins.",
+      "avoid_foods": "Sugary foods, processed foods."
+    },
+    {
+      "id": 19,
+      "goal": "Emotional Balance",
+      "desc": "Promoting emotional stability and well-being.",
+      "yoga_needed": "Regular practice, including a variety of asanas, Pranayama, and meditation.  Focus on mindfulness.",
+      "good_to_have_foods": "Foods that support mood, such as those rich in omega-3 fatty acids, magnesium, and vitamin D.",
+      "avoid_foods": "Alcohol, excessive caffeine, processed foods."
+    },
+    {
+      "id": 20,
+      "goal": "Spiritual Growth",
+      "desc": "Deepening self-awareness and connection to something larger than oneself.",
+      "yoga_needed": "Regular practice of all aspects of yoga, including asanas, Pranayama, meditation, and self-study (svadhyaya).",
+      "good_to_have_foods": "A balanced and mindful diet that supports overall well-being.",
+      "avoid_foods": "Foods that hinder mental clarity or emotional balance (if any)."
+    },
+    {
+      "id": 21,
+      "goal": "Improved Lung Capacity",
+      "desc": "Increasing the amount of air the lungs can hold.",
+      "yoga_needed": "Pranayama techniques like Bhastrika, Kapalabhati, and Ujjayi breathing.  Dynamic asanas.",
+      "good_to_have_foods": "Foods rich in antioxidants and vitamin C.",
+      "avoid_foods": "Foods that may increase mucus production (for some individuals)."
+    },
+    {
+      "id": 22,
+      "goal": "Healthy Skin",
+      "desc": "Improving skin health and appearance.",
+      "yoga_needed": "Regular practice, including twists, forward folds, and Sarvangasana (if appropriate). Pranayama.",
+      "good_to_have_foods": "Foods rich in antioxidants, vitamins A, C, and E, and healthy fats.",
+      "avoid_foods": "Processed foods, sugary foods, dairy (for some individuals)."
+    },
+      {
+      "id": 23,
+      "goal": "Joint Health",
+      "desc": "Maintaining healthy joints and reducing stiffness.",
+      "yoga_needed": "Gentle and regular practice, focusing on joint-mobilizing exercises and asanas that improve range of motion. Avoid overexertion.",
+      "good_to_have_foods": "Anti-inflammatory foods, omega-3 fatty acids, and foods rich in collagen.",
+      "avoid_foods": "Processed foods, sugary drinks, red meat."
+    },
+    {
+      "id": 24,
+      "goal": "Bone Health",
+      "desc": "Strengthening bones and preventing osteoporosis.",
+      "yoga_needed": "Weight-bearing asanas (Trikonasana, Virabhadrasana), and poses that improve balance.  Regular practice.",
+      "good_to_have_foods": "Foods rich in calcium, vitamin D, and vitamin K.",
+      "avoid_foods": "Excessive caffeine, alcohol, sodium."
+    },
+    {
+      "id": 25,
+      "goal": "Improved Circulation",
+      "desc": "Enhancing blood flow throughout the body.",
+      "yoga_needed": "Inversions (if appropriate), twists, and dynamic asanas.  Regular practice.",
+      "good_to_have_foods": "Foods that support cardiovascular health, such as those rich in omega-3 fatty acids and antioxidants.",
+      "avoid_foods": "Foods high in saturated and trans fats."
+    },
+    {
+        "id": 26,
+        "goal": "Managing Arthritis",
+        "desc": "Reducing pain and inflammation associated with arthritis.",
+        "yoga_needed": "Gentle and modified yoga practices, focusing on joint mobility and strengthening without causing pain. Restorative yoga and meditation can also be beneficial. Consult a yoga therapist.",
+        "good_to_have_foods": "Anti-inflammatory foods (fatty fish, ginger, turmeric), and foods rich in antioxidants.",
+        "avoid_foods": "Processed foods, red meat, sugary drinks, and foods high in omega-6 fatty acids."
+      },
+      {
+        "id": 27,
+        "goal": "Headache Relief",
+        "desc": "Reducing the frequency and intensity of headaches.",
+        "yoga_needed": "Gentle yoga, focusing on neck and shoulder stretches, and calming poses. Pranayama (Nadi Shodhana, Brahmari) and meditation.",
+        "good_to_have_foods": "Magnesium-rich foods, and foods that support hydration.",
+        "avoid_foods": "Trigger foods (if known), such as caffeine, alcohol, aged cheese, and processed foods."
+      },
+      {
+        "id": 28,
+        "goal": "Lowering Cholesterol",
+        "desc": "Reducing unhealthy cholesterol levels.",
+        "yoga_needed": "Regular practice, including dynamic styles and Pranayama.  Combine with aerobic exercise.",
+        "good_to_have_foods": "Foods rich in soluble fiber, omega-3 fatty acids, and healthy fats.",
+        "avoid_foods": "Saturated and trans fats, and high-cholesterol foods."
+      },
+      {
+        "id": 29,
+        "goal": "Managing Diabetes",
+        "desc": "Helping to regulate blood sugar levels.",
+        "yoga_needed": "Regular practice, including asanas that stimulate the pancreas, and Pranayama.  Focus on stress reduction.",
+        "good_to_have_foods": "Non-starchy vegetables, lean protein, whole grains, and foods with a low glycemic index.",
+        "avoid_foods": "Sugary drinks, refined carbohydrates, and processed foods."
+      },
+      {
+        "id": 30,
+        "goal": "Improving Thyroid Function",
+        "desc": "Supporting healthy thyroid gland function.",
+        "yoga_needed": "Specific asanas that stimulate the thyroid gland (consult a yoga therapist), Pranayama, and meditation.",
+        "good_to_have_foods": "Foods rich in iodine (for hypothyroidism), and selenium.",
+        "avoid_foods": "Goitrogens (for hypothyroidism, if applicable), and processed foods."
+      },
+    {
+      "id": 31,
+      "goal": "Reducing Back Pain",
+      "desc": "Alleviating pain and improving mobility in the back.",
+      "yoga_needed": "Gentle and therapeutic yoga, focusing on strengthening the core and back muscles, and improving flexibility. Avoid poses that strain the back. Consult a yoga therapist.",
+      "good_to_have_foods": "Anti-inflammatory foods, and foods rich in calcium and vitamin D.",
+      "avoid_foods": "Foods that promote inflammation (processed foods, red meat)."
+    },
+    {
+      "id": 32,
+      "goal": "Improving Liver Function",
+      "desc": "Supporting the health and function of the liver.",
+      "yoga_needed": "Twisting asanas, forward folds, and Kapalabhati Pranayama.",
+      "good_to_have_foods": "Foods rich in antioxidants, and those that support liver detoxification (e.g., cruciferous vegetables, garlic).",
+      "avoid_foods": "Alcohol, processed foods, high-fat foods."
+    },
+    {
+      "id": 33,
+      "goal": "Reducing Anxiety",
+      "desc": "Lowering feelings of anxiety and promoting calmness.",
+      "yoga_needed": "Gentle yoga, focusing on calming poses, Pranayama (Nadi Shodhana, Brahmari), and meditation.  Mindfulness practices.",
+      "good_to_have_foods": "Magnesium-rich foods, and foods that support neurotransmitter function.",
+      "avoid_foods": "Caffeine, alcohol, processed foods."
+    },
+    {
+      "id": 34,
+      "goal": "Managing Depression",
+      "desc": "Alleviating symptoms of depression and improving mood.",
+      "yoga_needed": "Regular practice, including a variety of asanas, Pranayama, and meditation.  Focus on uplifting poses.",
+      "good_to_have_foods": "Foods rich in omega-3 fatty acids, vitamin D, and B vitamins.",
+      "avoid_foods": "Alcohol, processed foods, sugary drinks."
+    },
+    {
+      "id": 35,
+      "goal": "Improving Self-Esteem",
+      "desc": "Building confidence and a positive self-image.",
+      "yoga_needed": "Regular practice of all aspects of yoga, including asanas, Pranayama, meditation, and self-study. Focus on body positivity and self-acceptance.",
+      "good_to_have_foods": "A balanced diet that supports overall well-being.",
+      "avoid_foods": "Foods that may negatively impact mood or energy levels."
+    },
+    {
+      "id": 36,
+      "goal": "Enhancing Creativity",
+      "desc": "Boosting creative thinking and expression.",
+      "yoga_needed": "Regular practice, including dynamic styles, Pranayama, and meditation.  Focus on open-mindedness and flexibility in practice.",
+      "good_to_have_foods": "Foods that support brain health and energy levels.",
+      "avoid_foods": "Foods that may hinder mental clarity."
+    },
+    {
+      "id": 37,
+      "goal": "Improving Relationships",
+      "desc": "Developing healthier and more fulfilling relationships.",
+      "yoga_needed": "Regular practice of all aspects of yoga, including ethical principles (yamas and niyamas), Pranayama, and meditation.  Focus on compassion and empathy.",
+      "good_to_have_foods": "A balanced diet that supports overall well-being and emotional stability.",
+      "avoid_foods": "Foods that may negatively impact mood or behavior."
+    },
+    {
+      "id": 38,
+      "goal": "Managing Addictions",
+      "desc": "Supporting recovery from addictive behaviors.",
+      "yoga_needed": "Regular practice of all aspects of yoga, with a focus on Pranayama, meditation, and self-study.  Seek guidance from a qualified yoga therapist.",
+      "good_to_have_foods": "A balanced diet that supports overall health and reduces cravings.",
+      "avoid_foods": "Substances of addiction (alcohol, drugs, etc.)."
+    },
+    {
+      "id": 39,
+      "goal": "Reducing Inflammation",
+      "desc": "Lowering inflammation levels in the body.",
+      "yoga_needed": "Gentle and regular practice, focusing on anti-inflammatory asanas and Pranayama.  Restorative yoga.",
+      "good_to_have_foods": "Anti-inflammatory foods (fatty fish, turmeric, ginger), and foods rich in antioxidants.",
+      "avoid_foods": "Processed foods, red meat, sugary drinks, and foods high in omega-6 fatty acids."
+    },
+    {
+      "id": 40,
+      "goal": "Improving Athletic Performance",
+      "desc": "Enhancing strength, endurance, flexibility, and focus for athletes.",
+      "yoga_needed": "Specific yoga routines tailored to the athlete's sport, focusing on relevant asanas, Pranayama, and mental training.",
+      "good_to_have_foods": "A balanced diet that supports the athlete's training needs, including protein, complex carbohydrates, and healthy fats.",
+      "avoid_foods": "Processed foods, sugary drinks, and foods that may hinder performance."
+    },
+    {
+      "id": 41,
+      "goal": "Managing Chronic Fatigue",
+      "desc": "Reducing fatigue and increasing energy levels in individuals with chronic fatigue.",
+      "yoga_needed": "Gentle and restorative yoga, focusing on energy-balancing asanas, Pranayama, and meditation. Avoid overexertion.",
+      "good_to_have_foods": "Nutrient-dense foods that support energy production, and foods rich in antioxidants.",
+      "avoid_foods": "Processed foods, sugary drinks, and excessive caffeine."
+    },
+    {
+      "id": 42,
+      "goal": "Improving Scoliosis",
+      "desc": "Managing and improving spinal curvature.",
+      "yoga_needed": "Therapeutic yoga, tailored to the individual's specific curve, focusing on strengthening and stretching the muscles around the spine. Consult a qualified yoga therapist.",
+      "good_to_have_foods": "Foods that support bone health and reduce inflammation.",
+      "avoid_foods": "Foods that may contribute to inflammation or hinder bone health."
+    },
+    {
+      "id": 43,
+      "goal": "Managing Carpal Tunnel Syndrome",
+      "desc": "Reducing pain and improving function in the wrists and hands.",
+      "yoga_needed": "Gentle yoga, focusing on wrist and hand stretches, and poses that improve circulation in the upper body. Avoid poses that put excessive strain on the wrists.",
+      "good_to_have_foods": "Anti-inflammatory foods, and foods rich in B vitamins.",
+      "avoid_foods": "Foods that may contribute to inflammation."
+    },
+    {
+      "id": 44,
+      "goal": "Improving Balance in Seniors",
+      "desc": "Enhancing stability and reducing the risk of falls in older adults.",
+      "yoga_needed": "Gentle and chair yoga, focusing on balancing poses, and poses that strengthen the legs and core.  Use props for support.",
+      "good_to_have_foods": "Foods rich in calcium and vitamin D for bone health, and foods that support nerve function.",
+      "avoid_foods": "Foods that may cause dizziness or imbalance."
+    },
+    {
+      "id": 45,
+      "goal": "Managing Osteoporosis",
+      "desc": "Slowing bone loss and reducing the risk of fractures.",
+      "yoga_needed": "Weight-bearing asanas (Trikonasana, Virabhadrasana), and poses that improve balance.  Gentle and regular practice.",
+      "good_to_have_foods": "Foods rich in calcium, vitamin D, and vitamin K.",
+      "avoid_foods": "Excessive caffeine, alcohol, sodium."
+    },
+    {
+      "id": 46,
+      "goal": "Improving Posture in Children",
+      "desc": "Developing healthy posture habits in young individuals.",
+      "yoga_needed": "Fun and engaging yoga for kids, focusing on poses that promote spinal alignment and strengthen the back and core.  Make it playful.",
+      "good_to_have_foods": "Foods rich in calcium and vitamin D for growing bones, and a balanced diet for overall development.",
+      "avoid_foods": "Sugary drinks and processed foods that may hinder growth and development."
+    },
+    {
+      "id": 47,
+      "goal": "Managing Insomnia in Elderly",
+      "desc": "Improving sleep quality and reducing sleep disturbances in older adults.",
+      "yoga_needed": "Gentle evening yoga, focusing on calming poses, Pranayama (Nadi Shodhana, Brahmari), and meditation.  Use props for support.",
+      "good_to_have_foods": "Foods containing tryptophan (turkey, milk), magnesium (leafy greens, nuts), and melatonin-rich foods (tart cherries).",
+      "avoid_foods": "Caffeine, alcohol, heavy meals before bed."
+    },
+    {
+      "id": 48,
+      "goal": "Palliative Care Support",
+      "desc": "Providing comfort and improving quality of life for individuals with serious illnesses.",
+      "yoga_needed": "Gentle and restorative yoga, tailored to the individual's needs, focusing on pain management, relaxation, and emotional support. Consult a qualified yoga therapist.",
+      "good_to_have_foods": "Nutritious and easily digestible foods, according to the individual's preferences and needs.",
+      "avoid_foods": "Foods that may exacerbate symptoms or cause discomfort."
+    },
+    {
+        "id": 49,
+        "goal": "Reducing Migraine",
+        "desc": "Decreasing the frequency and severity of migraine headaches.",
+        "yoga_needed": "Gentle yoga, focusing on neck and shoulder stretches, calming poses, and relaxation techniques. Pranayama (Nadi Shodhana, Brahmari).",
+        "good_to_have_foods": "Magnesium-rich foods, and foods that support hydration and nerve function.",
+        "avoid_foods": "Common migraine triggers, such as caffeine, alcohol, processed foods, aged cheeses, and artificial sweeteners."
+      },
+      {
+        "id": 50,
+        "goal": "Managing Fibromyalgia",
+        "desc": "Reducing pain, fatigue, and other symptoms associated with fibromyalgia.",
+        "yoga_needed": "Gentle and therapeutic yoga, tailored to the individual's needs, focusing on pain management, stress reduction, and improving sleep. Consult a qualified yoga therapist.",
+        "good_to_have_foods": "Anti-inflammatory foods, and foods that support energy production and sleep.",
+        "avoid_foods": "Processed foods, sugary drinks, caffeine, and foods that may exacerbate pain or fatigue."
+      }
+  ]
+  

@@ -1,0 +1,308 @@
+[
+  {
+      "disease_name": "Cancer",
+      "disease_desc": "Abnormal cell growth with the potential to invade or spread to other parts of the body.",
+      "food_good_to_have": "Broccoli, garlic, berries, green tea, turmeric",
+      "food_to_avoid": "Processed meats, alcohol, sugary drinks, red meat"
+  },
+  {
+      "disease_name": "Heart Disease",
+      "disease_desc": "A range of conditions that affect the heart, including coronary artery disease, heart failure, and arrhythmias.",
+      "food_good_to_have": "Fatty fish, whole grains, nuts, seeds, olive oil",
+      "food_to_avoid": "Saturated and trans fats, sodium, sugary foods"
+  },
+  {
+      "disease_name": "Diabetes (Type 2)",
+      "disease_desc": "A chronic condition that affects the way the body metabolizes sugar (glucose).",
+      "food_good_to_have": "Non-starchy vegetables, lean protein, whole grains, legumes",
+      "food_to_avoid": "Sugary drinks, refined carbohydrates, processed foods"
+  },
+  {
+      "disease_name": "Alzheimer's Disease",
+      "disease_desc": "A progressive disease that destroys memory and other important mental functions.",
+      "food_good_to_have": "Berries, fatty fish, leafy greens, nuts, whole grains",
+      "food_to_avoid": "Saturated and trans fats, sugary foods, processed foods"
+  },
+  {
+      "disease_name": "Arthritis",
+      "disease_desc": "Inflammation of the joints, causing pain and stiffness.",
+      "food_good_to_have": "Fatty fish, ginger, turmeric, leafy greens, olive oil",
+      "food_to_avoid": "Processed foods, red meat, sugary drinks"
+  },
+  {
+      "disease_name": "Asthma",
+      "disease_desc": "A condition in which your airways narrow and swell and may produce extra mucus.",
+      "food_good_to_have": "Fruits and vegetables, omega-3 fatty acids, ginger",
+      "food_to_avoid": "Sulfites, processed foods, cold drinks"
+  },
+  {
+      "disease_name": "Osteoporosis",
+      "disease_desc": "A condition that weakens bones, making them fragile and more likely to break.",
+      "food_good_to_have": "Dairy products, leafy greens, fatty fish, fortified foods",
+      "food_to_avoid": "Excessive caffeine, alcohol, sodium"
+  },
+  {
+      "disease_name": "Hypertension (High Blood Pressure)",
+      "disease_desc": "A condition in which the force of the blood against the artery walls is too high.",
+      "food_good_to_have": "Fruits and vegetables, whole grains, lean protein, low-fat dairy",
+      "food_to_avoid": "Sodium, saturated and trans fats, alcohol"
+  },
+  {
+      "disease_name": "Influenza (Flu)",
+      "disease_desc": "A contagious respiratory illness caused by influenza viruses.",
+      "food_good_to_have": "Vitamin C rich foods (citrus fruits), zinc rich foods, garlic, honey",
+      "food_to_avoid": "Sugary drinks, processed foods"
+  },
+  {
+      "disease_name": "Common Cold",
+      "disease_desc": "A viral infection of your nose and throat (upper respiratory tract).",
+      "food_good_to_have": "Vitamin C rich foods, ginger, honey",
+      "food_to_avoid": "Processed foods, sugary drinks"
+  },
+  {
+      "disease_name": "Migraine",
+      "disease_desc": "A type of headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head.",
+      "food_good_to_have": "Magnesium rich foods (leafy greens, nuts), ginger",
+      "food_to_avoid": "Alcohol, caffeine, processed foods, aged cheese"
+  },
+  {
+      "disease_name": "Epilepsy",
+      "disease_desc": "A disorder of the central nervous system (neurological disorder) in which brain activity becomes abnormal, causing seizures or periods of unusual behavior, sensations, and loss of awareness.",
+      "food_good_to_have": "Ketogenic diet (high-fat, low-carbohydrate)",
+      "food_to_avoid": "High-glycemic foods, processed foods"
+  },
+  {
+      "disease_name": "Parkinson's Disease",
+      "disease_desc": "A progressive nervous system disorder that affects movement.",
+      "food_good_to_have": "Fiber rich foods, antioxidants",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Multiple Sclerosis (MS)",
+      "disease_desc": "A potentially disabling disease of the brain and spinal cord (central nervous system).",
+      "food_good_to_have": "Omega-3 fatty acids, vitamin D",
+      "food_to_avoid": "Saturated fats"
+  },
+  {
+      "disease_name": "Cerebral Palsy",
+      "disease_desc": "A group of disorders that affect a person's ability to move and maintain balance and posture.",
+      "food_good_to_have": "High-fiber foods, calcium-rich foods",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Muscular Dystrophy",
+      "disease_desc": "A group of diseases that cause progressive weakness and loss of muscle mass.",
+      "food_good_to_have": "Protein-rich foods, antioxidants",
+      "food_to_avoid": "Processed foods, sugary drinks"
+  },
+  {
+      "disease_name": "Stroke",
+      "disease_desc": "Occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients.",
+      "food_good_to_have": "Fruits and vegetables, whole grains, lean protein",
+      "food_to_avoid": "Saturated and trans fats, sodium"
+  },
+  {
+      "disease_name": "Kidney Disease",
+      "disease_desc": "Damage to your kidneys and reduces their ability to function normally.",
+      "food_good_to_have": "Low-sodium foods, low-phosphorus foods, low-potassium foods",
+      "food_to_avoid": "Sodium, phosphorus, potassium"
+  },
+  {
+      "disease_name": "Liver Cirrhosis",
+      "disease_desc": "Scarring of the liver caused by long-term liver damage.",
+      "food_good_to_have": "Low-sodium foods, protein",
+      "food_to_avoid": "Alcohol, sodium, high-fat foods"
+  },
+  {
+      "disease_name": "Pancreatitis",
+      "disease_desc": "Inflammation of the pancreas.",
+      "food_good_to_have": "Low-fat foods, clear liquids",
+      "food_to_avoid": "Alcohol, high-fat foods"
+  },
+  {
+      "disease_name": "Gastroesophageal Reflux Disease (GERD)",
+      "disease_desc": "Digestive disorder that occurs when stomach acid frequently flows back into the esophagus.",
+      "food_good_to_have": "High-fiber foods, alkaline foods",
+      "food_to_avoid": "Fatty foods, spicy foods, caffeine, alcohol"
+  },
+  {
+      "disease_name": "Irritable Bowel Syndrome (IBS)",
+      "disease_desc": "A common disorder that affects the large intestine.",
+      "food_good_to_have": "Low FODMAP diet",
+      "food_to_avoid": "High FODMAP foods (certain carbohydrates)"
+  },
+  {
+      "disease_name": "Crohn's Disease",
+      "disease_desc": "A type of inflammatory bowel disease (IBD) that causes inflammation of your digestive tract.",
+      "food_good_to_have": "Low-fiber foods, easily digestible foods",
+      "food_to_avoid": "High-fiber foods, fatty foods, spicy foods"
+  },
+  {
+      "disease_name": "Ulcerative Colitis",
+      "disease_desc": "An inflammatory bowel disease (IBD) that causes inflammation and ulcers in your digestive tract.",
+      "food_good_to_have": "Low-fiber foods, easily digestible foods",
+      "food_to_avoid": "High-fiber foods, fatty foods, spicy foods"
+  },
+  {
+      "disease_name": "Celiac Disease",
+      "disease_desc": "An immune reaction to eating gluten, a protein found in wheat, barley, and rye.",
+      "food_good_to_have": "Gluten-free foods",
+      "food_to_avoid": "Gluten"
+  },
+  {
+      "disease_name": "Hypothyroidism",
+      "disease_desc": "A condition in which the thyroid gland doesn't produce enough thyroid hormone.",
+      "food_good_to_have": "Iodine rich foods, selenium rich foods",
+      "food_to_avoid": "Goitrogens (certain raw vegetables)"
+  },
+  {
+      "disease_name": "Hyperthyroidism",
+      "disease_desc": "Occurs when your thyroid gland produces too much of the hormone thyroxine.",
+      "food_good_to_have": "Low-iodine foods",
+      "food_to_avoid": "Iodine rich foods"
+  },
+  {
+      "disease_name": "Anemia",
+      "disease_desc": "A condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
+      "food_good_to_have": "Iron rich foods, vitamin B12 rich foods, folate rich foods",
+      "food_to_avoid": "Foods that inhibit iron absorption (e.g., tannins in tea)"
+  },
+  {
+      "disease_name": "Osteoarthritis",
+      "disease_desc": "A type of arthritis that occurs when flexible tissue at the ends of bones wears down.",
+      "food_good_to_have": "Anti-inflammatory foods, vitamin D",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Rheumatoid Arthritis",
+      "disease_desc": "An autoimmune disease that causes chronic inflammation of the joints.",
+      "food_good_to_have": "Omega-3 fatty acids, antioxidants",
+      "food_to_avoid": "Red meat, processed foods"
+  },
+  {
+      "disease_name": "Gout",
+      "disease_desc": "A type of arthritis characterized by sudden, severe attacks of pain, redness and tenderness in a joint.",
+      "food_good_to_have": "Low-purine foods",
+      "food_to_avoid": "High-purine foods (red meat, seafood, alcohol)"
+  },
+  {
+      "disease_name": "Psoriasis",
+      "disease_desc": "A skin disease that causes red, itchy, scaly patches.",
+      "food_good_to_have": "Anti-inflammatory foods, omega-3 fatty acids",
+      "food_to_avoid": "Processed foods, red meat, dairy"
+  },
+  {
+      "disease_name": "Eczema",
+      "disease_desc": "A condition that makes your skin red and itchy.",
+      "food_good_to_have": "Anti-inflammatory foods",
+      "food_to_avoid": "Allergenic foods (if known)"
+  },
+  {
+      "disease_name": "Acne",
+      "disease_desc": "A skin condition that occurs when hair follicles become clogged with oil and dead skin cells.",
+      "food_good_to_have": "Low-glycemic foods",
+      "food_to_avoid": "High-glycemic foods, dairy"
+  },
+  {
+      "disease_name": "Rosacea",
+      "disease_desc": "A condition that causes redness and visible blood vessels in your face.",
+      "food_good_to_have": "Anti-inflammatory foods",
+      "food_to_avoid": "Spicy foods, alcohol, hot drinks"
+  },
+  {
+      "disease_name": "Depression",
+      "disease_desc": "A mood disorder that causes a persistent feeling of sadness and loss of interest.",
+      "food_good_to_have": "Omega-3 fatty acids, vitamin D",
+      "food_to_avoid": "Processed foods, alcohol, caffeine"
+  },
+  {
+      "disease_name": "Anxiety Disorders",
+      "disease_desc": "A group of mental disorders characterized by significant feelings of anxiety and fear.",
+      "food_good_to_have": "Magnesium rich foods, complex carbohydrates",
+      "food_to_avoid": "Caffeine, alcohol, processed foods"
+  },
+  {
+      "disease_name": "Bipolar Disorder",
+      "disease_desc": "A mental disorder that causes unusual shifts in mood, energy, activity levels, concentration, and the ability to carry out day-to-day tasks.",
+      "food_good_to_have": "Omega-3 fatty acids, complex carbohydrates",
+      "food_to_avoid": "Caffeine, alcohol, processed foods"
+  },
+  {
+      "disease_name": "Schizophrenia",
+      "disease_desc": "A chronic brain disorder that affects a person's ability to think, feel, and behave clearly.",
+      "food_good_to_have": "Omega-3 fatty acids, antioxidants",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Insomnia",
+      "disease_desc": "Persistent problems falling and staying asleep.",
+      "food_good_to_have": "Tryptophan rich foods (e.g., turkey), magnesium rich foods",
+      "food_to_avoid": "Caffeine, alcohol"
+  },
+  {
+      "disease_name": "COPD (Chronic Obstructive Pulmonary Disease)",
+      "disease_desc": "A chronic inflammatory lung disease that causes obstructed airflow from the lungs.",
+      "food_good_to_have": "Antioxidant rich foods, lean protein",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Bronchitis",
+      "disease_desc": "Inflammation of the lining of your bronchial tubes, which carry air to and from your lungs.",
+      "food_good_to_have": "Vitamin C rich foods, anti-inflammatory foods",
+      "food_to_avoid": "Dairy, processed foods"
+  },
+  {
+      "disease_name": "Pneumonia",
+      "disease_desc": "Infection that inflames the air sacs in one or both lungs.",
+      "food_good_to_have": "Protein rich foods, vitamin C rich foods",
+      "food_to_avoid": "Processed foods, sugary drinks"
+  },
+  {
+      "disease_name": "Tuberculosis (TB)",
+      "disease_desc": "An infectious disease that usually affects the lungs.",
+      "food_good_to_have": "Protein rich foods, vitamin B rich foods",
+      "food_to_avoid": "Alcohol, processed foods"
+  },
+  {
+      "disease_name": "Cystic Fibrosis",
+      "disease_desc": "An inherited disorder that damages the lungs, digestive system and other organs.",
+      "food_good_to_have": "High-calorie foods, high-fat foods, enzyme supplements",
+      "food_to_avoid": "Trans fats"
+  },
+  {
+      "disease_name": "Sleep Apnea",
+      "disease_desc": "A sleep disorder in which breathing repeatedly stops and starts.",
+      "food_good_to_have": "Foods that promote healthy sleep",
+      "food_to_avoid": "Alcohol, caffeine"
+  },
+  {
+      "disease_name": "Narcolepsy",
+      "disease_desc": "A neurological disorder that affects the control of sleep and wakefulness.",
+      "food_good_to_have": "High-protein foods, complex carbohydrates",
+      "food_to_avoid": "Sugary foods, heavy meals"
+  },
+  {
+      "disease_name": "Restless Legs Syndrome (RLS)",
+      "disease_desc": "A condition that causes an uncontrollable urge to move your legs, usually because of an uncomfortable sensation.",
+      "food_good_to_have": "Iron rich foods, magnesium rich foods",
+      "food_to_avoid": "Caffeine, alcohol"
+  },
+  {
+      "disease_name": "Glaucoma",
+      "disease_desc": "An eye condition that damages your optic nerve.",
+      "food_good_to_have": "Antioxidant rich foods, vitamin A",
+      "food_to_avoid": "Caffeine"
+  },
+  {
+      "disease_name": "Macular Degeneration",
+      "disease_desc": "An eye disease that causes vision loss in the center of your visual field.",
+      "food_good_to_have": "Antioxidant rich foods, omega-3 fatty acids",
+      "food_to_avoid": "Processed foods"
+  },
+  {
+      "disease_name": "Cataracts",
+      "disease_desc": "Clouding of the natural lens of the eye.",
+      "food_good_to_have": "Antioxidant rich foods, vitamin C, vitamin E",
+      "food_to_avoid": "Processed foods"
+  }
+]

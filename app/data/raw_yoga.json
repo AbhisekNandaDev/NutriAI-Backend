@@ -1,0 +1,73 @@
+[
+    {
+      "yoga_name": "Surya Namaskar (Sun Salutation)",
+      "yoga_benefit": "Energizes the body, strengthens muscles, improves flexibility, stimulates circulation.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/Surya-Namaskar-A-Sun-Salutation-Urdhva-Mukha-Svanasana-Upward-Facing-Dog-scaled.avif",
+      "yoga_time_in_sec": 300,
+      "yoga_category": "morning"
+    },
+    {
+      "yoga_name": "Tadasana (Mountain Pose)",
+      "yoga_benefit": "Improves posture, strengthens thighs and ankles, firms abdomen and buttocks.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(5).jpeg",
+      "yoga_time_in_sec": 60,
+      "yoga_category": "morning"
+    },
+    {
+      "yoga_name": "Vrikshasana (Tree Pose)",
+      "yoga_benefit": "Improves balance and stability, strengthens legs and core, opens hips.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(6).jpeg",
+      "yoga_time_in_sec": 60,
+      "yoga_category": "strength"
+    },
+    {
+      "yoga_name": "Bhujangasana (Cobra Pose)",
+      "yoga_benefit": "Strengthens the spine, stretches the chest and abdomen, relieves stress and fatigue.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(7).jpeg",
+      "yoga_time_in_sec": 60,
+      "yoga_category": "strength"
+    },
+    {
+      "yoga_name": "Paschimottanasana (Seated Forward Bend)",
+      "yoga_benefit": "Stretches the hamstrings and spine, calms the brain, helps relieve stress and mild depression.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(8).jpeg",
+      "yoga_time_in_sec": 120,
+      "yoga_category": "flexibility"
+    },
+    {
+      "yoga_name": "Ardha Matsyendrasana (Half Lord of the Fishes Pose)",
+      "yoga_benefit": "Stimulates abdominal organs, stretches the spine and shoulders, relieves fatigue.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/Half_Lord_of_the_Fishes_-_Ardha_Matsyendrasana_02.webp",
+      "yoga_time_in_sec": 60,
+      "yoga_category": "flexibility"
+    },
+    {
+      "yoga_name": "Vajrasana (Thunderbolt Pose)",
+      "yoga_benefit": "Aids digestion, strengthens legs and back, calms the mind.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/Vajrasana-Thunderbolt-Pose-356602-pixahive-1024x728.jpg",
+      "yoga_time_in_sec": 180,
+      "yoga_category": "relaxing"
+    },
+    {
+      "yoga_name": "Shavasana (Corpse Pose)",
+      "yoga_benefit": "Relaxes the entire body, calms the brain, reduces stress and mild depression.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(9).jpeg",
+      "yoga_time_in_sec": 300,
+      "yoga_category": "relaxing"
+    },
+    {
+      "yoga_name": "Kapalbhati Pranayama (Skull Shining Breath)",
+      "yoga_benefit": "Cleanses respiratory passages, energizes the body, improves focus.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/images%20(10).jpeg",
+      "yoga_time_in_sec": 180,
+      "yoga_category": "morning"
+    },
+    {
+      "yoga_name": "Anulom Vilom Pranayama (Alternate Nostril Breathing)",
+      "yoga_benefit": "Balances energy channels, calms the mind, reduces stress and anxiety.",
+      "yoga_pose_url": "https://storage.googleapis.com/nutriai_food/yoga/young-man-practicing-yoga-at-park-732x549-thumbnail.avif",
+      "yoga_time_in_sec": 300,
+      "yoga_category": "relaxing"
+    }
+  ]
+  

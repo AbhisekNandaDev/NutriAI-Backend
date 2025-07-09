@@ -1,0 +1,587 @@
+[
+    {
+      "food_name": "Aloo Paratha",
+      "food_desc": "Wheat flatbread stuffed with spiced mashed potatoes.",
+      "food_carbohydrate": 30,
+      "food_protein": 4,
+      "food_fat": 10,
+      "food_calories": 230
+    },
+    {
+      "food_name": "Biryani",
+      "food_desc": "Fragrant rice dish cooked with spices, meat (chicken, mutton, fish) or vegetables.",
+      "food_carbohydrate": 40,
+      "food_protein": 25,
+      "food_fat": 20,
+      "food_calories": 450
+    },
+    {
+      "food_name": "Chole Bhature",
+      "food_desc": "Spicy chickpea curry served with deep-fried bread.",
+      "food_carbohydrate": 60,
+      "food_protein": 15,
+      "food_fat": 30,
+      "food_calories": 600
+    },
+    {
+      "food_name": "Dal Makhani",
+      "food_desc": "Creamy lentil dish made with black lentils, butter, and cream.",
+      "food_carbohydrate": 25,
+      "food_protein": 10,
+      "food_fat": 20,
+      "food_calories": 330
+    },
+    {
+      "food_name": "Butter Chicken",
+      "food_desc": "Tandoori chicken cooked in a smooth, buttery, and creamy tomato-based gravy.",
+      "food_carbohydrate": 10,
+      "food_protein": 30,
+      "food_fat": 25,
+      "food_calories": 400
+    },
+    {
+      "food_name": "Palak Paneer",
+      "food_desc": "Indian cheese (paneer) cooked in a smooth spinach gravy.",
+      "food_carbohydrate": 15,
+      "food_protein": 15,
+      "food_fat": 20,
+      "food_calories": 310
+    },
+    {
+      "food_name": "Samosa",
+      "food_desc": "Deep-fried pastry with a savory filling, such as spiced potatoes, onions, and peas.",
+      "food_carbohydrate": 25,
+      "food_protein": 5,
+      "food_fat": 15,
+      "food_calories": 260
+    },
+    {
+      "food_name": "Idli",
+      "food_desc": "Steamed savory rice cakes made from fermented batter.",
+      "food_carbohydrate": 35,
+      "food_protein": 8,
+      "food_fat": 1,
+      "food_calories": 170
+    },
+    {
+      "food_name": "Dosa",
+      "food_desc": "Thin crepe made from fermented rice and lentil batter.",
+      "food_carbohydrate": 40,
+      "food_protein": 7,
+      "food_fat": 5,
+      "food_calories": 230
+    },
+    {
+      "food_name": "Naan",
+      "food_desc": "Leavened flatbread baked in a tandoor oven.",
+      "food_carbohydrate": 45,
+      "food_protein": 10,
+      "food_fat": 3,
+      "food_calories": 240
+    },
+    {
+      "food_name": "Pakhala Bhata",
+      "food_desc": "Fermented rice dish soaked in water, often served with curd and fried accompaniments.",
+      "food_carbohydrate": 30,
+      "food_protein": 3,
+      "food_fat": 5,
+      "food_calories": 180
+    },
+    {
+      "food_name": "Chhena Poda",
+      "food_desc": "Baked cheese dessert made from fresh cottage cheese, sugar, and cardamom.",
+      "food_carbohydrate": 30,
+      "food_protein": 18,
+      "food_fat": 25,
+      "food_calories": 410
+    },
+    {
+      "food_name": "Dalma",
+      "food_desc": "Lentil and vegetable stew, a staple in Odia cuisine.",
+      "food_carbohydrate": 20,
+      "food_protein": 8,
+      "food_fat": 5,
+      "food_calories": 165
+    },
+    {
+      "food_name": "Macha Ghanta",
+      "food_desc": "Fish curry made with the head of the fish and various spices.",
+      "food_carbohydrate": 15,
+      "food_protein": 20,
+      "food_fat": 15,
+      "food_calories": 280
+    },
+    {
+      "food_name": "Besara",
+      "food_desc": "Vegetable curry cooked in mustard paste.",
+      "food_carbohydrate": 12,
+      "food_protein": 4,
+      "food_fat": 10,
+      "food_calories": 150
+    },
+    {
+      "food_name": "Santula",
+      "food_desc": "Simple vegetable curry with minimal spices.",
+      "food_carbohydrate": 10,
+      "food_protein": 3,
+      "food_fat": 6,
+      "food_calories": 100
+    },
+    {
+      "food_name": "Khaja",
+      "food_desc": "Crispy, layered pastry soaked in sugar syrup.",
+      "food_carbohydrate": 40,
+      "food_protein": 2,
+      "food_fat": 18,
+      "food_calories": 340
+    },
+    {
+      "food_name": "Gupchup",
+      "food_desc": "Hollow crispy balls filled with tangy tamarind water, chickpeas, and potatoes (Odia version of Pani Puri).",
+      "food_carbohydrate": 15,
+      "food_protein": 2,
+      "food_fat": 5,
+      "food_calories": 110
+    },
+    {
+      "food_name": "Mudhi Mansa",
+      "food_desc": "Spicy mutton curry served with puffed rice, a specialty from Baripada.",
+      "food_carbohydrate": 25,
+      "food_protein": 28,
+      "food_fat": 22,
+      "food_calories": 430
+    },
+    {
+      "food_name": "Kanika",
+      "food_desc": "Sweet rice dish flavored with ghee, cashews, and raisins.",
+      "food_carbohydrate": 50,
+      "food_protein": 5,
+      "food_fat": 10,
+      "food_calories": 310
+    },
+    {
+      "food_name": "Puri",
+      "food_desc": "Deep-fried, unleavened flatbread.",
+      "food_carbohydrate": 25,
+      "food_protein": 3,
+      "food_fat": 12,
+      "food_calories": 220
+    },
+    {
+      "food_name": "Upma",
+      "food_desc": "Savory semolina (rava) porridge.",
+      "food_carbohydrate": 20,
+      "food_protein": 5,
+      "food_fat": 8,
+      "food_calories": 180
+    },
+    {
+      "food_name": "Pongal",
+      "food_desc": "Rice and lentil porridge, often seasoned with black pepper and cumin.",
+      "food_carbohydrate": 28,
+      "food_protein": 6,
+      "food_fat": 7,
+      "food_calories": 200
+    },
+    {
+      "food_name": "Uttapam",
+      "food_desc": "Thick pancake made from rice and lentil batter, often topped with vegetables.",
+      "food_carbohydrate": 30,
+      "food_protein": 7,
+      "food_fat": 6,
+      "food_calories": 210
+    },
+    {
+      "food_name": "Vada",
+      "food_desc": "Deep-fried lentil fritters.",
+      "food_carbohydrate": 22,
+      "food_protein": 8,
+      "food_fat": 15,
+      "food_calories": 250
+    },
+    {
+      "food_name": "Masala Dosa",
+      "food_desc": "Dosa filled with a spiced potato mixture.",
+      "food_carbohydrate": 45,
+      "food_protein": 10,
+      "food_fat": 10,
+      "food_calories": 300
+    },
+    {
+      "food_name": "Rasam",
+      "food_desc": "Thin, spicy South Indian soup.",
+      "food_carbohydrate": 5,
+      "food_protein": 2,
+      "food_fat": 3,
+      "food_calories": 50
+    },
+    {
+      "food_name": "Sambar",
+      "food_desc": "Lentil-based vegetable stew or chowder.",
+      "food_carbohydrate": 15,
+      "food_protein": 5,
+      "food_fat": 4,
+      "food_calories": 120
+    },
+    {
+      "food_name": "Korma",
+      "food_desc": "Rich, creamy gravy dish, often made with nuts and yogurt. Can be vegetarian or with meat.",
+      "food_carbohydrate": 15,
+      "food_protein": 10,
+      "food_fat": 20,
+      "food_calories": 280
+    },
+    {
+      "food_name": "Rogan Josh",
+      "food_desc": "Aromatic Kashmiri lamb dish with a vibrant red color.",
+      "food_carbohydrate": 8,
+      "food_protein": 25,
+      "food_fat": 20,
+      "food_calories": 300
+    },
+    {
+      "food_name": "Vindaloo",
+      "food_desc": "Spicy curry dish, often made with pork or chicken, originating from Goa.",
+      "food_carbohydrate": 12,
+      "food_protein": 20,
+      "food_fat": 18,
+      "food_calories": 270
+    },
+    {
+      "food_name": "Tandoori Chicken",
+      "food_desc": "Chicken marinated in yogurt and spices, cooked in a tandoor oven.",
+      "food_carbohydrate": 5,
+      "food_protein": 30,
+      "food_fat": 20,
+      "food_calories": 320
+    },
+    {
+      "food_name": "Chicken Tikka Masala",
+      "food_desc": "Grilled chicken pieces in a creamy tomato-based sauce.",
+      "food_carbohydrate": 15,
+      "food_protein": 25,
+      "food_fat": 20,
+      "food_calories": 330
+    },
+    {
+      "food_name": "Seekh Kebab",
+      "food_desc": "Minced meat skewers, grilled or roasted.",
+      "food_carbohydrate": 10,
+      "food_protein": 25,
+      "food_fat": 20,
+      "food_calories": 300
+    },
+    {
+      "food_name": "Shahi Paneer",
+      "food_desc": "Paneer cooked in a rich, creamy tomato-based gravy.",
+      "food_carbohydrate": 18,
+      "food_protein": 12,
+      "food_fat": 22,
+      "food_calories": 300
+    },
+    {
+      "food_name": "Paneer Tikka",
+      "food_desc": "Grilled cubes of paneer marinated in spices and yogurt.",
+      "food_carbohydrate": 10,
+      "food_protein": 15,
+      "food_fat": 20,
+      "food_calories": 250
+    },
+    {
+      "food_name": "Chana Masala",
+      "food_desc": "Spicy chickpea curry.",
+      "food_carbohydrate": 30,
+      "food_protein": 10,
+      "food_fat": 8,
+      "food_calories": 200
+    },
+    {
+      "food_name": "Rajma",
+      "food_desc": "Red kidney bean curry.",
+      "food_carbohydrate": 25,
+      "food_protein": 12,
+      "food_fat": 7,
+      "food_calories": 190
+    },
+    {
+      "food_name": "Aloo Gobi",
+      "food_desc": "Cauliflower and potato curry.",
+      "food_carbohydrate": 20,
+      "food_protein": 5,
+      "food_fat": 8,
+      "food_calories": 180
+    },
+    {
+      "food_name": "Baingan Bharta",
+      "food_desc": "Mashed eggplant dish cooked with spices.",
+      "food_carbohydrate": 12,
+      "food_protein": 3,
+      "food_fat": 7,
+      "food_calories": 120
+    },
+    {
+      "food_name": "Bhindi Masala",
+      "food_desc": "Okra cooked with spices.",
+      "food_carbohydrate": 10,
+      "food_protein": 4,
+      "food_fat": 6,
+      "food_calories": 100
+    },
+    {
+      "food_name": "Malai Kofta",
+      "food_desc": "Deep-fried paneer and potato balls in a creamy sauce.",
+      "food_carbohydrate": 20,
+      "food_protein": 8,
+      "food_fat": 25,
+      "food_calories": 330
+    },
+    {
+      "food_name": "Kofta Curry",
+      "food_desc": "Meatball or vegetable ball curry.",
+      "food_carbohydrate": 15,
+      "food_protein": 10,
+      "food_fat": 20,
+      "food_calories": 280
+    },
+    {
+      "food_name": "Saag Paneer",
+      "food_desc": "Paneer cooked with spinach.",
+      "food_carbohydrate": 15,
+      "food_protein": 15,
+      "food_fat": 20,
+      "food_calories": 310
+    },
+    {
+      "food_name": "Sarson ka Saag",
+      "food_desc": "Mustard greens dish, often served with makki di roti.",
+      "food_carbohydrate": 10,
+      "food_protein": 5,
+      "food_fat": 8,
+      "food_calories": 120
+    },
+    {
+      "food_name": "Rajma Chawal",
+      "food_desc": "Kidney bean curry served with rice.",
+      "food_carbohydrate": 50,
+      "food_protein": 15,
+      "food_fat": 10,
+      "food_calories": 320
+    },
+    {
+      "food_name": "Chana Masala",
+      "food_desc": "Chickpea curry, often served with rice or bread.",
+      "food_carbohydrate": 45,
+      "food_protein": 12,
+      "food_fat": 8,
+      "food_calories": 280
+    },
+    {
+      "food_name": "Pulao",
+      "food_desc": "Rice dish cooked with vegetables and spices.",
+      "food_carbohydrate": 40,
+      "food_protein": 6,
+      "food_fat": 10,
+      "food_calories": 260
+    },
+    {
+      "food_name": "Khichdi",
+      "food_desc": "Rice and lentil porridge, a simple and comforting dish.",
+      "food_carbohydrate": 30,
+      "food_protein": 8,
+      "food_fat": 5,
+      "food_calories": 200
+    },
+    {
+      "food_name": "Roti",
+      "food_desc": "Unleavened flatbread made from whole wheat flour.",
+      "food_carbohydrate": 20,
+      "food_protein": 4,
+      "food_fat": 2,
+      "food_calories": 110
+    },
+    {
+      "food_name": "Chapati",
+      "food_desc": "Another name for Roti.",
+      "food_carbohydrate": 20,
+      "food_protein": 4,
+      "food_fat": 2,
+      "food_calories": 110
+    },
+    {
+      "food_name": "Paratha",
+      "food_desc": "Layered or stuffed flatbread made from whole wheat flour.",
+      "food_carbohydrate": 25,
+      "food_protein": 5,
+      "food_fat": 8,
+      "food_calories": 190
+    },
+    {
+      "food_name": "Makki di Roti",
+      "food_desc": "Flatbread made from cornmeal.",
+      "food_carbohydrate": 22,
+      "food_protein": 4,
+      "food_fat": 6,
+      "food_calories": 150
+    },
+    {
+      "food_name": "Missi Roti",
+      "food_desc": "Flatbread made from a mix of wheat flour and gram flour.",
+      "food_carbohydrate": 24,
+      "food_protein": 6,
+      "food_fat": 7,
+      "food_calories": 170
+    },
+    {
+      "food_name": "Tandoori Roti",
+      "food_desc": "Roti cooked in a tandoor oven.",
+      "food_carbohydrate": 22,
+      "food_protein": 5,
+      "food_fat": 3,
+      "food_calories": 130
+    },
+    {
+      "food_name": "Rumali Roti",
+      "food_desc": "Thin, soft flatbread.",
+      "food_carbohydrate": 20,
+      "food_protein": 4,
+      "food_fat": 1,
+      "food_calories": 100
+    },
+    {
+      "food_name": "Papad",
+      "food_desc": "Thin, crisp disc-shaped food made from lentils or rice flour.",
+      "food_carbohydrate": 15,
+      "food_protein": 5,
+      "food_fat": 1,
+      "food_calories": 80
+    },
+    {
+      "food_name": "Dahi",
+      "food_desc": "Yogurt.",
+      "food_carbohydrate": 4,
+      "food_protein": 5,
+      "food_fat": 4,
+      "food_calories": 80
+    },
+    {
+      "food_name": "Lassi",
+      "food_desc": "Yogurt-based drink, can be sweet or savory.",
+      "food_carbohydrate": 15,
+      "food_protein": 4,
+      "food_fat": 5,
+      "food_calories": 120
+    },
+    {
+      "food_name": "Chutney",
+      "food_desc": "Spicy condiment made from fruits, vegetables, and spices.",
+      "food_carbohydrate": 10,
+      "food_protein": 1,
+      "food_fat": 5,
+      "food_calories": 90
+    },
+    {
+      "food_name": "Pickle",
+      "food_desc": "Spicy condiment made from pickled fruits or vegetables.",
+      "food_carbohydrate": 5,
+      "food_protein": 1,
+      "food_fat": 5,
+      "food_calories": 70
+    },
+    {
+      "food_name": "Raita",
+      "food_desc": "Yogurt-based condiment with vegetables or fruits.",
+      "food_carbohydrate": 8,
+      "food_protein": 3,
+      "food_fat": 4,
+      "food_calories": 80
+    },
+    {
+      "food_name": "Gulab Jamun",
+      "food_desc": "Deep-fried milk balls soaked in sugar syrup.",
+      "food_carbohydrate": 30,
+      "food_protein": 3,
+      "food_fat": 15,
+      "food_calories": 270
+    },
+    {
+      "food_name": "Rasgulla",
+      "food_desc": "Soft cheese balls cooked in sugar syrup.",
+      "food_carbohydrate": 25,
+      "food_protein": 5,
+      "food_fat": 2,
+      "food_calories": 150
+    },
+    {
+      "food_name": "Jalebi",
+      "food_desc": "Deep-fried, pretzel-shaped sweet soaked in syrup.",
+      "food_carbohydrate": 40,
+      "food_protein": 2,
+      "food_fat": 10,
+      "food_calories": 250
+    },
+    {
+      "food_name": "Kheer",
+      "food_desc": "Rice pudding.",
+      "food_carbohydrate": 25,
+      "food_protein": 4,
+      "food_fat": 8,
+      "food_calories": 190
+    },
+    {
+      "food_name": "Halwa",
+      "food_desc": "Sweet pudding, can be made from various ingredients like semolina, carrots, etc.",
+      "food_carbohydrate": 30,
+      "food_protein": 3,
+      "food_fat": 12,
+      "food_calories": 240
+    },
+    {
+      "food_name": "Barfi",
+      "food_desc": "Dense milk-based sweet.",
+      "food_carbohydrate": 35,
+      "food_protein": 6,
+      "food_fat": 20,
+      "food_calories": 320
+    },
+    {
+      "food_name": "Kaju Katli",
+      "food_desc": "Diamond-shaped sweet made from cashews.",
+      "food_carbohydrate": 30,
+      "food_protein": 7,
+      "food_fat": 25,
+      "food_calories": 350
+    },
+    {
+      "food_name": "Ladoo",
+      "food_desc": "Ball-shaped sweet made from flour, sugar, and ghee.",
+      "food_carbohydrate": 40,
+      "food_protein": 5,
+      "food_fat": 15,
+      "food_calories": 300
+    },
+    {
+      "food_name": "Rasmalai",
+      "food_desc": "Soft cheese patties soaked in sweetened, thickened milk.",
+      "food_carbohydrate": 20,
+      "food_protein": 8,
+      "food_fat": 15,
+      "food_calories": 250
+    },
+  
+    {
+      "food_name": "Pakhala Bhata",
+      "food_desc": "Fermented rice dish soaked in water, often served with curd and fried accompaniments.",
+      "food_carbohydrate": 30,
+      "food_protein": 3,
+      "food_fat": 5,
+      "food_calories": 180
+    },
+    {
+      "food_name": "Chhena Poda",
+      "food_desc": "Baked cheese dessert made from fresh cottage cheese, sugar, and cardamom.",
+      "food_carbohydrate": 30,
+      "food_protein": 18,
+      "food_fat": 25,
+      "food_calories": 410
+    }
+]
